@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{BD5BD250-835F-4E99-9781-8FB749A83609}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WordSet/Program.cs">
+    <Files>
+      <File FileName="WordSet/Program.cs" Line="6" Column="18" />
+      <File FileName="WordSet/WordSet.cs" Line="87" Column="47" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WordSet PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/home/mister/RiderProjects/WordSet/WordSet/Tests.cs" relfile="WordSet/Tests.cs" line="49" column="10" />
+      <Breakpoint file="/home/mister/RiderProjects/WordSet/WordSet/Tests.cs" relfile="WordSet/Tests.cs" line="43" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

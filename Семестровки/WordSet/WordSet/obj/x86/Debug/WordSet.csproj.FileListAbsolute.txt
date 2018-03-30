@@ -1,0 +1,9 @@
+/home/mister/RiderProjects/WordSet/WordSet/bin/Debug/WordSet.exe
+/home/mister/RiderProjects/WordSet/WordSet/bin/Debug/WordSet.pdb
+/home/mister/RiderProjects/WordSet/WordSet/bin/Debug/nunit.framework.dll
+/home/mister/RiderProjects/WordSet/WordSet/bin/Debug/nunit.framework.pdb
+/home/mister/RiderProjects/WordSet/WordSet/bin/Debug/nunit.framework.xml
+/home/mister/RiderProjects/WordSet/WordSet/obj/x86/Debug/WordSet.csproj.CoreCompileInputs.cache
+/home/mister/RiderProjects/WordSet/WordSet/obj/x86/Debug/WordSet.exe
+/home/mister/RiderProjects/WordSet/WordSet/obj/x86/Debug/WordSet.pdb
+/home/mister/RiderProjects/WordSet/WordSet/obj/x86/Debug/WordSet.csprojResolveAssemblyReference.cache
