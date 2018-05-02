@@ -11,7 +11,7 @@ namespace HeapSort
     {
         private List<int []> _tests;
 
-        public List<int[]> ParseTestsData(string filename)
+        public List<int[]> ParseTestsToCollection(string filename)
         {
             var text =  File.ReadAllText(filename).Split("\n", StringSplitOptions.RemoveEmptyEntries);
             var res = new List<int[]>();
@@ -23,10 +23,23 @@ namespace HeapSort
             return res;
 
         }
-
-        public void Prepare(string fileName, int n)
+        
+        public List<LinkedList<int>> ParseTestsToLinkedCollection(string filename)
         {
-            _tests = TestGeneratorN.GetTestCases(n);
+            var text =  File.ReadAllText(filename).Split("\n", StringSplitOptions.RemoveEmptyEntries);
+            var res = new List<LinkedList<int>>();
+            for (var i=0; i< text.Length; i++)
+            {
+                var tArray = Array.ConvertAll(text[i].Split(" ", StringSplitOptions.RemoveEmptyEntries), int.Parse);
+                res.Add(new LinkedList<int>(tArray));
+            }
+            return res;
+
+        }
+
+        public void Prepare(string fileName, int n, int from, int to)
+        {
+            _tests = TestGeneratorN.GetTestCases(n, from, to);
             var sb = new StringBuilder();
             foreach (var c in _tests)
             {
