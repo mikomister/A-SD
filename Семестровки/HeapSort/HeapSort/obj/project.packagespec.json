@@ -1,0 +1,55 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/HeapSort.csproj",
+    "projectName": "HeapSort",
+    "projectPath": "/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/HeapSort.csproj",
+    "outputPath": "/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.NET.Test.Sdk": {
+          "target": "Package",
+          "version": "[15.7.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NUnit": {
+          "target": "Package",
+          "version": "[3.10.1, )"
+        },
+        "NUnit3TestAdapter": {
+          "target": "Package",
+          "version": "[3.10.0, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

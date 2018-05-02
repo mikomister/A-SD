@@ -1,0 +1,15 @@
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.dll
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/NUnit3.TestAdapter.pdb
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/nunit.engine.netstandard.dll
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/Mono.Cecil.dll
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.deps.json
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.runtimeconfig.json
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.runtimeconfig.dev.json
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.dll
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.pdb
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.csproj.CoreCompileInputs.cache
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.AssemblyInfoInputs.cache
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.AssemblyInfo.cs
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.dll
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.pdb
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/HeapSort/HeapSort/obj/Debug/netcoreapp2.0/HeapSort.csprojResolveAssemblyReference.cache
