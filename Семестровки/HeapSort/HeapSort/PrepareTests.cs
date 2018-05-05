@@ -52,7 +52,6 @@ namespace HeapSort
 
         private void ArrayToSB(IEnumerable<int> collection, StringBuilder sb)
         {
-            var length = collection.Count();
             foreach (var t in collection)
             {
                 sb.AppendFormat(" {0} ", t);

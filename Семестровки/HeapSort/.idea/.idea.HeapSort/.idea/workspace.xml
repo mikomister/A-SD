@@ -1,0 +1,1052 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs" line="40" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4510f8f4-58a5-4bd3-853e-f50f89a05b0b" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.~lock.Graphics.xlsx#" afterPath="$PROJECT_DIR$/.~lock.Graphics.xlsx#" />
+      <change beforePath="$PROJECT_DIR$/Graphics.xlsx" afterPath="$PROJECT_DIR$/Graphics.xlsx" />
+      <change beforePath="$PROJECT_DIR$/HeapSort/PrepareTests.cs" afterPath="$PROJECT_DIR$/HeapSort/PrepareTests.cs" />
+      <change beforePath="$PROJECT_DIR$/HeapSort/Tests/Tests.cs" afterPath="$PROJECT_DIR$/HeapSort/Tests/Tests.cs" />
+      <change beforePath="$PROJECT_DIR$/HeapSort/bin/Debug/netcoreapp2.0/nunit_random_seed.tmp" afterPath="$PROJECT_DIR$/HeapSort/bin/Debug/netcoreapp2.0/nunit_random_seed.tmp" />
+      <change beforePath="$PROJECT_DIR$/HeapSort/obj/HeapSort.csproj.nuget.cache" afterPath="$PROJECT_DIR$/HeapSort/obj/HeapSort.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/HeapSort/obj/project.assets.json" afterPath="$PROJECT_DIR$/HeapSort/obj/project.assets.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="Program.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+              <folding>
+                <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+                <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+                <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+                <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+                <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PrepareTests.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HeapSort/PrepareTests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="316">
+              <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+              <folding>
+                <marker date="1525416686822" expanded="false" signature="6:102" ph="..." />
+                <marker date="1525416686822" expanded="true" signature="123:1822" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="155:1820" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="266:680" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="467:645" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="772:1217" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="983:1182" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="1288:1571" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="1441:1503" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="1650:1814" ph="{...}" />
+                <marker date="1525416686822" expanded="true" signature="1702:1775" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HeapSort.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+              <folding>
+                <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+                <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+                <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestGeneratorN.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HeapSort/TestGeneratorN.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+              <folding>
+                <marker date="1525268326755" expanded="false" signature="6:115" ph="..." />
+                <marker date="1525268326755" expanded="true" signature="135:817" ph="{...}" />
+                <marker date="1525268326755" expanded="true" signature="169:815" ph="{...}" />
+                <marker date="1525268326755" expanded="true" signature="247:515" ph="{...}" />
+                <marker date="1525268326755" expanded="true" signature="380:474" ph="{...}" />
+                <marker date="1525268326755" expanded="true" signature="594:809" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Tests.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+              <folding>
+                <marker date="1525416593694" expanded="false" signature="6:89" ph="..." />
+                <marker date="1525416593694" expanded="true" signature="115:1464" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="158:523" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="324:517" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="556:1462" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="620:962" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="646:952" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="745:938" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="1023:1456" ph="{...}" />
+                <marker date="1525416593694" expanded="true" signature="1118:1284" ph="/* int[] array = new int[size]; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>int</find>
+      <find>long</find>
+      <find>targe</find>
+      <find>+</find>
+      <find>Append</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>long</replace>
+      <replace>int</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Michael Kon'kov &lt;m.k-mister@yandex.ru&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/1e/99e52140/SZArrayHelper.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5D1BB978-2C16-48A2-9933-7374295C2F61/c2/e05b28db/ArrayList.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F9105913-586B-4202-A9F6-4285F46D0017/7e/54b51e32/LinkedList`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/HeapSort/TestGeneratorN.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/e3/67c0f01a/List`1.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/3d/9323dd1b/JitHelpers.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/HeapSort/PrepareTests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/be/a6dfd16f/StringBuilder.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/HeapSort/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/ac/4979caa9/Int32.cs" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/HeapSortTests/Tests.cs" />
+        <option value="$PROJECT_DIR$/Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/Tests/Tests.csproj" />
+        <option value="$PROJECT_DIR$/HeapSort/HeapSort.csproj" />
+        <option value="$PROJECT_DIR$/HeapSort/Logs.txt" />
+        <option value="$PROJECT_DIR$/HeapSort/TestGeneratorN (2).cs" />
+        <option value="$PROJECT_DIR$/HeapSort/TestGeneratorN.cs" />
+        <option value="$PROJECT_DIR$/HeapSort/HeapSort.cs" />
+        <option value="$PROJECT_DIR$/HeapSort/Program.cs" />
+        <option value="$PROJECT_DIR$/HeapSort/Tests/Tests.cs" />
+        <option value="$PROJECT_DIR$/HeapSort/PrepareTests.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="y" value="-6" />
+    <option name="width" value="1366" />
+    <option name="height" value="725" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HeapSort (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HeapSort (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HeapSort" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="HeapSort (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="HeapSort" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Tests" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="RiderNuGetCacheManager.AutoClear.global-packages" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.http-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.packages-cache" value="2" />
+    <property name="RiderNuGetCacheManager.AutoClear.temp" value="1" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Tests/Tests.csproj" />
+    <property name="settings.editor.selected.configurable" value="RiderUnitTestingPageId" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/HeapSort/bin/Debug/netcoreapp2.0/HeapSort.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/HeapSort" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/HeapSort/HeapSort.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4510f8f4-58a5-4bd3-853e-f50f89a05b0b" name="Default" comment="" />
+      <created>1524738184995</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524738184995</updated>
+      <workItem from="1524738197606" duration="3654000" />
+      <workItem from="1524773039872" duration="4650000" />
+      <workItem from="1524948422616" duration="7174000" />
+      <workItem from="1525018228224" duration="1311000" />
+      <workItem from="1525197631619" duration="2473000" />
+      <workItem from="1525200178588" duration="800000" />
+      <workItem from="1525201477152" duration="3682000" />
+      <workItem from="1525252095118" duration="2342000" />
+      <workItem from="1525416498551" duration="1125000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add HeapSort">
+      <created>1525264900841</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1525264900841</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add HeapSort">
+      <created>1525276409771</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1525276409771</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="56164000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="-6" width="1366" height="725" extended-state="7" />
+    <editor active="true" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="16" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="17" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="18" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="19" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.037037037" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68686867" sideWeight="0.5" order="20" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="21" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.20757575" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="22" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28619528" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.5" order="23" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.037037037" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32996634" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.68686867" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18181819" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4090909" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28619528" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="EXTERNAL /home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add HeapSort" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add HeapSort" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="21" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/e3/67c0f01a/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="141">
+          <caret line="149" column="8" lean-forward="false" selection-start-line="149" selection-start-column="8" selection-end-line="149" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="21" column="8" lean-forward="false" selection-start-line="21" selection-start-column="8" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/TestGeneratorN.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <folding>
+            <marker date="1525268326755" expanded="false" signature="6:115" ph="..." />
+            <marker date="1525268326755" expanded="true" signature="135:817" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="169:815" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="247:515" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="380:474" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="594:809" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="51" column="21" lean-forward="true" selection-start-line="51" selection-start-column="21" selection-end-line="51" selection-end-column="21" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="17" lean-forward="false" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="585">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="5" lean-forward="false" selection-start-line="9" selection-start-column="22" selection-end-line="10" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="6" lean-forward="false" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="660">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="30" column="50" lean-forward="true" selection-start-line="30" selection-start-column="50" selection-end-line="30" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="792">
+          <caret line="44" column="8" lean-forward="false" selection-start-line="44" selection-start-column="8" selection-end-line="44" selection-end-column="8" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="40" column="39" lean-forward="true" selection-start-line="40" selection-start-column="39" selection-end-line="40" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/5D1BB978-2C16-48A2-9933-7374295C2F61/c2/e05b28db/ArrayList.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1152">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/3d/9323dd1b/JitHelpers.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="33" column="6" lean-forward="false" selection-start-line="33" selection-start-column="6" selection-end-line="33" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/1e/99e52140/SZArrayHelper.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="35" column="6" lean-forward="false" selection-start-line="35" selection-start-column="6" selection-end-line="35" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSortTests/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/HeapSortTests/Properties/AssemblyInfo.cs" />
+    <entry file="file://$PROJECT_DIR$/Tests/Tests.cs" />
+    <entry file="file://$PROJECT_DIR$/Tests/Tests.csproj" />
+    <entry file="file://$USER_HOME$/.Rider2018.1/system/log/UnitTestLogs/62a21a45-d913-4ca3-a1bb-e2e268e269b6___2018-05-01-21-32-38-262.log" />
+    <entry file="file://$USER_HOME$/.Rider2018.1/system/log/UnitTestLogs/62a21a45-d913-4ca3-a1bb-e2e268e269b6___2018-05-01-21-35-45-784.log" />
+    <entry file="file://$PROJECT_DIR$/HeapSort/Logs.txt" />
+    <entry file="file://$PROJECT_DIR$/HeapSort/d.host.18-05-01_22-14-39_61343_5.txt" />
+    <entry file="file://$PROJECT_DIR$/HeapSort/d.txt" />
+    <entry file="file://$PROJECT_DIR$/HeapSort/TestGeneratorN (2).cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/ac/4979caa9/Int32.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-666">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/e3/67c0f01a/List`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1937">
+          <caret line="27" column="11" lean-forward="false" selection-start-line="27" selection-start-column="11" selection-end-line="27" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/TestResults/_PC_2018-05-01_22_14_42.trx" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0E1B27A4-6035-47D9-A041-CEF439F84C41/be/a6dfd16f/StringBuilder.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="619" column="31" lean-forward="false" selection-start-line="619" selection-start-column="25" selection-end-line="619" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/PrepareTests (2).cs" />
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.csproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="14" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="53" lean-forward="true" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/F9105913-586B-4202-A9F6-4285F46D0017/7e/54b51e32/LinkedList`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="98">
+          <caret line="17" column="15" lean-forward="false" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/TestResults.txt" />
+    <entry file="file://$PROJECT_DIR$/HeapSort/LinkedCollectionResults.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/CollectionResults.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="16" lean-forward="true" selection-start-line="13" selection-start-column="16" selection-end-line="13" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Tests.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="16056">
+          <caret line="5" column="0" lean-forward="false" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/TestGeneratorN.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="18" column="0" lean-forward="true" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1525268326755" expanded="false" signature="6:115" ph="..." />
+            <marker date="1525268326755" expanded="true" signature="135:817" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="169:815" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="247:515" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="380:474" ph="{...}" />
+            <marker date="1525268326755" expanded="true" signature="594:809" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Tests/Tests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="38" lean-forward="false" selection-start-line="27" selection-start-column="38" selection-end-line="27" selection-end-column="38" />
+          <folding>
+            <marker date="1525416593694" expanded="false" signature="6:89" ph="..." />
+            <marker date="1525416593694" expanded="true" signature="115:1464" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="158:523" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="324:517" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="556:1462" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="620:962" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="646:952" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="745:938" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="1023:1456" ph="{...}" />
+            <marker date="1525416593694" expanded="true" signature="1118:1284" ph="/* int[] array = new int[size]; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="414">
+          <caret line="30" column="21" lean-forward="false" selection-start-line="30" selection-start-column="21" selection-end-line="30" selection-end-column="21" />
+          <folding>
+            <marker date="1525269708333" expanded="false" signature="6:179" ph="..." />
+            <marker date="1525269708333" expanded="true" signature="199:2789" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="219:2787" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="265:1299" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="413:524" ph="/* prepareTests.Prepare(file, 100, 100, 10000); ... */" />
+            <marker date="1525269708333" expanded="true" signature="848:1024" ph="/* showCollection(testLinkedCollections[0]); ... */" />
+            <marker date="1525269708333" expanded="true" signature="1146:1233" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1333:2781" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1412:2052" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="1579:1968" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2132:2771" ph="{...}" />
+            <marker date="1525269708333" expanded="true" signature="2299:2687" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/PrepareTests.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="316">
+          <caret line="54" column="0" lean-forward="false" selection-start-line="54" selection-start-column="0" selection-end-line="54" selection-end-column="0" />
+          <folding>
+            <marker date="1525416686822" expanded="false" signature="6:102" ph="..." />
+            <marker date="1525416686822" expanded="true" signature="123:1822" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="155:1820" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="266:680" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="467:645" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="772:1217" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="983:1182" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="1288:1571" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="1441:1503" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="1650:1814" ph="{...}" />
+            <marker date="1525416686822" expanded="true" signature="1702:1775" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HeapSort/HeapSort.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="34" column="54" lean-forward="true" selection-start-line="34" selection-start-column="54" selection-end-line="34" selection-end-column="54" />
+          <folding>
+            <marker date="1525269388670" expanded="false" signature="6:182" ph="..." />
+            <marker date="1525269388670" expanded="true" signature="202:3225" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="230:3222" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="316:364" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="430:535" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="615:1038" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="690:1028" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1101:1247" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1165:1237" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1298:1510" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1402:1500" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1572:1841" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1733:1831" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="1915:2044" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2140:2587" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2215:2577" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2674:2820" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2738:2810" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="2920:3207" ph="{...}" />
+            <marker date="1525269388670" expanded="true" signature="3053:3172" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

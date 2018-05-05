@@ -25,7 +25,7 @@ namespace HeapSort.Tests
             get
             {
                 var rnd = new Random();
-                for (var i = 0; i < 50; i++)
+                for (var i = 0; i < 25; i++)
                 {
                     var t1 = GenerateCollection(rnd);
                     var t2 = t1.ToArray();
