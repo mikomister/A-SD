@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AVL Tree", "AVL Tree\AVL Tree.csproj", "{8B41DABC-A815-4768-B971-26EFA4B0A71C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8B41DABC-A815-4768-B971-26EFA4B0A71C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8B41DABC-A815-4768-B971-26EFA4B0A71C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8B41DABC-A815-4768-B971-26EFA4B0A71C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8B41DABC-A815-4768-B971-26EFA4B0A71C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

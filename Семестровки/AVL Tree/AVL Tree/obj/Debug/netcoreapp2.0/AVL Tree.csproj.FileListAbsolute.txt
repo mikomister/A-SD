@@ -1,0 +1,10 @@
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/obj/Debug/netcoreapp2.0/AVL Tree.csproj.CoreCompileInputs.cache
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/obj/Debug/netcoreapp2.0/AVL Tree.AssemblyInfoInputs.cache
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/obj/Debug/netcoreapp2.0/AVL Tree.AssemblyInfo.cs
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/bin/Debug/netcoreapp2.0/AVL Tree.deps.json
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/bin/Debug/netcoreapp2.0/AVL Tree.runtimeconfig.json
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/bin/Debug/netcoreapp2.0/AVL Tree.runtimeconfig.dev.json
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/bin/Debug/netcoreapp2.0/AVL Tree.dll
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/bin/Debug/netcoreapp2.0/AVL Tree.pdb
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/obj/Debug/netcoreapp2.0/AVL Tree.dll
+/home/mister/Yandex.Disk/0_ВУЗ/Academic difference/АиСД/Практика/A-SD/Семестровки/AVL Tree/AVL Tree/obj/Debug/netcoreapp2.0/AVL Tree.pdb
